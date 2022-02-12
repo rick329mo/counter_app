@@ -7,8 +7,7 @@ body {
 .header {
    font-family: 'Courier New', Courier, monospace;
    font-size: 2rem;
-   text-shadow:black 3px 3px;
-   
+   text-shadow:black 3px 3px;   
 }
 
 .number {
@@ -18,7 +17,6 @@ body {
     margin: 100px;
 }
 
-
 .press_me {
     border-radius: 8px;
     padding: 2em 3em;
@@ -26,7 +24,7 @@ body {
     font-family: 'Courier New', Courier, monospace;
     font-size: 1rem;
 }
+
 .press_me:hover {
     background-color: rgb(223, 221, 221);
-    
 }

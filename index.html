@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link rel="stylesheet" href="styles.css">
-    <script src="index.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Counter App</title>
 </head>
@@ -14,13 +13,15 @@
     </div>
 
     <div class="number">
-        <h3>0</h3>
+        <h3 id="count-el">0</h3>
 
     </div>
 
     <div class="main">
-        <button class="press_me">Press Me!</button>
+        <button class="press_me" onclick="increment ()">Press Me!</button>
     </div>
+
+    <script src="index.js"></script>
     
 </body>
 </html>

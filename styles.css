@@ -1,18 +1,17 @@
 body {
     background-color: rgb(190, 82, 82);
     color: white;
+    font-family: 'Courier New', Courier, monospace;
     text-align: center;
 }
 
 .header {
-   font-family: 'Courier New', Courier, monospace;
    font-size: 2rem;
    text-shadow:black 3px 3px;   
 }
 
 .number {
     font-size: 5rem;
-    font-family: 'Courier New', Courier, monospace;
     text-shadow: black 3px 3px;
     margin: 100px;
 }

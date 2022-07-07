@@ -17,7 +17,7 @@ body {
 }
 
 .press_me {
-    border-radius: 8px;
+    border-radius: 15px;
     padding: 2em 3em;
     box-shadow: 2px 1px black;
     font-family: 'Courier New', Courier, monospace;

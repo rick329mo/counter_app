@@ -30,3 +30,8 @@ body {
 .count_button:hover {
     background-color: rgb(223, 221, 221);
 }
+
+.save_feature {
+    font-size: 1rem;
+    text-shadow: black 3px 3px;
+}

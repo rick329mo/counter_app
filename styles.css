@@ -16,7 +16,7 @@ body {
     margin: 100px;
 }
 
-.press_me {
+.count_button {
     border-radius: 15px;
     padding: 2em 3em;
     box-shadow: 2px 1px black;
@@ -27,6 +27,6 @@ body {
     height: 80px;
 }
 
-.press_me:hover {
+.count_button:hover {
     background-color: rgb(223, 221, 221);
 }

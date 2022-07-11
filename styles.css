@@ -11,9 +11,9 @@ body {
 }
 
 .number {
-    font-size: 6rem;
+    font-size: 5rem;
     text-shadow: black 3px 3px;
-    margin: 100px;
+    margin: 50px;
 }
 
 .count_button {
